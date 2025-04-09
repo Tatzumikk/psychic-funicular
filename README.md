@@ -1,2 +1,1 @@
-# psychic-funicular
-aula de web avançado
+# projeto-dbz-csharp
